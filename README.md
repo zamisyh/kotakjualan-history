@@ -13,10 +13,10 @@ In this project 100% pure use Restful API, Testing using POSTMAN, and database u
 
 ## How To Install
 ```
-git clone https://github.com/zamisyh/kotakjualan-toko
-cd kotakjualan-toko
+git clone https://github.com/zamisyh/kotakjualan-history
+cd kotakjualan-history
 composer update
-cp env.example .env (DB Name : toko)
+cp env.example .env (DB Name : history)
 php artisan key:generate
 
 ```
